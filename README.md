@@ -1,3 +1,4 @@
 # html_code
 <br>
-Author Name : Sushma Rana(devloper)
+Author Name : Sushma Rana
+Software devloper
